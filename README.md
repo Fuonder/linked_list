@@ -1,2 +1,2 @@
 # linked_list
-Realization of linked list 
+implementation of linked list 
